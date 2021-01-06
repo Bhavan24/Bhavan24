@@ -1,13 +1,13 @@
 ### Hi there, I'm Bhavan 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Bhavan24)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=ChatBot_with_python)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=ChatBot_with_python)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=ChatBot_with_python)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=ChatBot_with_python)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=ChatBot_with_python)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=ChatBot_with_python)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=ChatBot_with_python)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Computer_Science_Calculator)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Matrix_Calculator)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Number_system_converter)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Voting_system_java)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Password_generator_python)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=QA_coursework)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=OpenCV_face_detector_python)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavan24&langs_count=8)](https://github.com/Bhavan24/github-readme-stats)
 
 
