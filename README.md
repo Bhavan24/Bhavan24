@@ -1,4 +1,4 @@
-### Hi there, I'm Bhavan 👋
+# Hi there, I'm Bhavan 👋
 
   - 🔭 I’m currently studying BEng(Hons) Software Engineering at Informatics Institute of Technology (IIT)
   - 🌱 I’m currently learning Java & JavaScript & Python & C# 
