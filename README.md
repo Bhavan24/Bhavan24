@@ -1,6 +1,6 @@
 ### Hi there, I'm Bhavan 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Bhavan24)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Computer_Science_Calculator)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Matrix_Calculator)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhavan24&repo=Number_system_converter)
