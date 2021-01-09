@@ -2,7 +2,7 @@
 
   - 🔭 I’m currently studying BEng(Hons) Software Engineering at Informatics Institute of Technology (IIT)
   - 🌱 I’m currently learning Java & JavaScript & Python & C# 
-  - 📫 How to reach me: bhavaneetharan@gmail.com bhavan2410@gmail.com
+  - 📫 How to reach me: bhavaneetharan@gmail.com   --- bhavan2410@gmail.com
   - ⭐ Leave a star if you like my Repositories
 
 
